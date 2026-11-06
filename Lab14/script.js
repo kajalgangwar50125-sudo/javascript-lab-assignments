@@ -1,8 +1,3 @@
-/*
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 14 - Timers and Intervals
-*/
 
 // The three tasks run one after another so their output does not mix.
 
