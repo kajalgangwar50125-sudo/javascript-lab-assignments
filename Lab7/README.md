@@ -1,8 +1,3 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 7 - Constructor Functions and Classes
--->
 
 # Assignment 7: Constructor Functions and Classes
 
