@@ -1,13 +1,13 @@
 <!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
+  Name: Kajal gangwar
+  Roll No: BCS2025547
   Assignment: 4 - Writing Functions
 -->
 
 # Assignment 4: Writing Functions
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** Kajal gangwar
+**Roll No:** BCS2025547
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
