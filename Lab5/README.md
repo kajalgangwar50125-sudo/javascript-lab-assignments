@@ -1,13 +1,13 @@
 <!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
+  Name: Kajal gangwar
+  Roll No: BCS2025547
   Assignment: 5 - Arrays, Array Methods and Nested Arrays
 -->
 
 # Assignment 5: Arrays, Array Methods and Nested Arrays
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** kajal gangwar
+**Roll No:** BCS2025547
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
