@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 12 - Callbacks and Higher-Order Functions
--->
 
 # Assignment 12: Callbacks and Higher-Order Functions
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** kajal gangwar
+**Roll No:** BCS2025547
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
