@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 10 - Objects and Destructuring
--->
 
 # Assignment 10: Objects and Destructuring
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** kajal gangwar
+**Roll No:** BCS2025547
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
