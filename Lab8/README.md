@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 8 - Inheritance, Methods and Composition
--->
 
 # Assignment 8: Inheritance, Methods and Composition
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** kajal gangwar
+**Roll No:** BCS2025547
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
