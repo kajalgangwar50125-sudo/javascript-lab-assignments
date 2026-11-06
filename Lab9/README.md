@@ -1,13 +1,8 @@
-<!--
-  Name: Priyanshi Sharma
-  Roll No: BCS2025582
-  Assignment: 9 - DOM, Validation, Storage and Quiz
--->
 
 # Assignment 9: DOM, Validation, Storage and Quiz
 
-**Name:** Priyanshi Sharma
-**Roll No:** BCS2025582
+**Name:** kajal gangawr
+**Roll No:** BCS2025547
 **Subject:** JavaScript Programming Lab (BCS354), Invertis University, Bareilly
 
 ## Aim
